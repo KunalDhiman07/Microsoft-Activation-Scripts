@@ -1,7 +1,7 @@
 Git Practical
 
 # Description
-Git Practical 
+Git Practical of college
 
 ## Steps to Run the Project
 1. Clone the repository
